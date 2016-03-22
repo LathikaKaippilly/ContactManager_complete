@@ -34,8 +34,8 @@
         avatar:"./Images/4.jpg"
 			}
 		]
-
-	//localStorage.setItem("contacts",JSON.stringify(CONTACTS))  ;
+  if(localStorage.contacts === undefined)
+	   localStorage.setItem("contacts",JSON.stringify(CONTACTS))  ;
 	</script>
 
   </head>
