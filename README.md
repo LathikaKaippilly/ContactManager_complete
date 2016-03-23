@@ -4,7 +4,7 @@ A simple contact manager app used to add,edit or delete contact.
 
 #installation
 
-Step by step installation process for starting with a reactjs app with es6 is explained in below mentioned link.
+Step by step installation process for starting with a reactjs app with es6 is explained in the below mentioned link.
 http://blog.tamizhvendan.in/blog/2015/11/23/a-beginner-guide-to-setup-react-dot-js-environment-using-babel-6-and-webpack/
 
 #Getting started
@@ -13,7 +13,7 @@ Open ContactManager_complete/src/client/index.htm for using app.
 
 #Development
 
-To start modify app files navigate to ContactManager_complete in terminal(ubuntu) then execute
+To start modifying app files navigate to ContactManager_complete in terminal(ubuntu) then execute
 
 npm install and npm install flux.
 
